@@ -2,4 +2,5 @@
 
 <ul>
     <li>Prompt Engineering</li>
+    <li>LLM Settings</li>
 </ul>
