@@ -3,4 +3,5 @@
 <ul>
     <li>Prompt Engineering</li>
     <li>LLM Settings</li>
+    <li>Structured Output</li>
 </ul>
