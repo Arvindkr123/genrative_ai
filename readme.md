@@ -1,4 +1,4 @@
-<h1>Welcome Generative AI</h1>
+<h1>Welcome to Generative AI</h1>
 
 <ul>
     <li>Prompt Engineering</li>
