@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tavily/core": "^0.5.10",
     "dotenv": "^17.2.1",
     "groq-sdk": "^0.30.0",
     "nodemon": "^3.1.10"
