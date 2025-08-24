@@ -24,6 +24,7 @@ async function main() {
           You are a smart personal assistant who answers questions.
           You have access to the following tools:
           1. webSearch({query}:{query:string}) // Search latest information
+          current date and time: ${new Date().toUTCString()}
         `,
         },
     ]
