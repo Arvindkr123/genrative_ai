@@ -2,3 +2,5 @@ invoke/.env
 invoke/node_modules/*
 toll_calling_setup/.env
 toll_calling_setup/node_modules/*
+chat_gpt_clone/node_modules/*
+chat_gpt_clone/.env
